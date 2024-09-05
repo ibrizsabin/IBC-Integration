@@ -18,7 +18,6 @@
 [rust-test-link]: https://github.com/icon-project/IBC-Integration/actions/workflows/basic-rust.yml
 
 # IBC-Integration
-
 The Inter-Blockchain Communication protocol (IBC) is an end-to-end, connection-oriented, stateful protocol for reliable,
 ordered, and authenticated communication between heterogeneous blockchains arranged in an unknown and dynamic topology.
 xCall, a standard for generic cross-chain messaging along with IBC provides dynamic and coherent solution for
